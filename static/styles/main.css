@@ -3,13 +3,11 @@ html {
   height: 100%;
   margin: 0px;
   padding: 0px;
+  background-color: #fafafa;
+  font-family: Roboto;
 }
 
-body {
-  height: inherit;
-  width: inherit;
-  margin: 0px;
+.container {
   display: flex;
   justify-content: center;
-  align-items: center;
 }
